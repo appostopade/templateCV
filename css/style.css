@@ -1,0 +1,72 @@
+#content{
+    font-family: "Ubuntu";
+    width: 760px;
+    margin: 0 auto;
+    box-shadow: 0 0 2px gray;
+    padding: 5px 25px 5px 25px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+h1{
+    text-align: center;
+}
+
+.line{
+    width: 75%;
+    margin: 20px auto;
+    line-height: 30px; 
+    clear: both;
+}
+
+.description{
+    display: inline-block;
+    width: 35%;
+}
+
+.country-code{
+    color: rgba(0, 104, 75, 0.8);
+}
+
+.courses-year{
+    float: left;
+    height: 100px;
+    max-width: 120px;
+}
+
+.formation-description{
+    float: left;
+    width: 65%;
+    height: 100px;
+    margin-left: 50px;
+    border: 1px solid gray;
+}
+
+.formation-title{
+    font-weight: bold;
+}
+
+.formation-school{
+    font-style: italic;
+}
+
+.interest{
+    display: inline-block;
+    background: rgba(100, 100, 100, 0.4);
+    line-height: 30px;
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 15px;
+}
+
+blockquote{
+    border-left: 5px solid pink;
+    padding: 10px;
+    font-style: italic;
+    color: blue;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+}
